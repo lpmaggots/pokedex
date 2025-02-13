@@ -24,7 +24,7 @@ PWA (Progressive Web App)
 ✔️ Suporte a PWA para uso offline  
 
 
-Link do Netlify: Pokedex
+Link do Netlify: https://lpm-pokedex.netlify.app/
 
 
 🇺🇸 Pokedex with Vue 3, Vite, Bootstrap, and PWA
@@ -53,4 +53,4 @@ PWA (Progressive Web App)
 ✔️ PWA support for offline usage  
 
 
-Netlify Link: Pokedex
+Netlify Link: https://lpm-pokedex.netlify.app/
