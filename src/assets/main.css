@@ -1,0 +1,28 @@
+/* general */
+:root {
+  --c-grey: #e4e4e4;
+  --c-light-grey: #ced4da;
+  --c-orange: #d55959;
+  --c-light-orange: #f3b3b3;
+}
+.scroll-custom::-webkit-scrollbar {
+  width: 10px;
+}
+.scroll-custom::-webkit-scrollbar-track {
+  border-radius: 4px;
+  background-color: #e7e7e7;
+  border: 1px solid #cacaca;
+}
+.scroll-custom::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background-color: #d55959;
+}
+.space-top {
+  top: 1em;
+}
+/* cards */
+.card-scroll {
+  height: 80vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
