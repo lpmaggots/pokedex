@@ -1,29 +1,37 @@
-# pokedex
+🇧🇷 Pokedex com Vue 3, Vite, Bootstrap e PWA
+Este é um aplicativo de Pokédex desenvolvido com Vue 3 e Vite, utilizando Bootstrap para a interface de usuário e integrando a PokeAPI para trazer informações detalhadas sobre os Pokémon. O projeto é leve, responsivo e possui suporte a PWA (Progressive Web App), permitindo instalação no dispositivo e uso offline.
 
-This template should help get you started developing with Vue 3 in Vite.
+📌 Tecnologias utilizadas:
 
-## Recommended IDE Setup
+Vue 3 + Vite
+Bootstrap
+PokeAPI (API de dados sobre Pokémon)
+Netlify (Deploy)
+PWA (Progressive Web App)
+💡 Funcionalidades:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+✔️ Pesquisar e visualizar informações detalhadas sobre os Pokémon
+✔️ Interface moderna e responsiva
+✔️ Consumo eficiente da PokeAPI para dados atualizados
+✔️ Suporte a PWA para uso offline
 
-## Customize configuration
+Link do Netlify: Pokedex
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+🇺🇸 Pokedex with Vue 3, Vite, Bootstrap, and PWA
+This is a Pokedex app built with Vue 3 and Vite, using Bootstrap for the user interface and integrating PokeAPI to fetch detailed information about Pokémon. The project is lightweight, responsive, and supports PWA (Progressive Web App), allowing installation and offline usage.
 
-## Project Setup
+📌 Technologies used:
 
-```sh
-npm install
-```
+Vue 3 + Vite
+Bootstrap
+PokeAPI (Pokémon data API)
+Netlify (Deployment)
+PWA (Progressive Web App)
+💡 Features:
 
-### Compile and Hot-Reload for Development
+✔️ Search and view detailed information about Pokémon
+✔️ Modern and responsive UI
+✔️ Efficient consumption of PokeAPI for up-to-date data
+✔️ PWA support for offline usage
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Netlify Link: Pokedex
